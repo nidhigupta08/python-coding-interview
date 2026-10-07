@@ -36,7 +36,7 @@ print("Reversed sentence:", result)
 words = text.split()
 
 words.reverse()
-
+print(words)
 result = " ".join(words)
 
 print("Method 2:")
